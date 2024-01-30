@@ -536,9 +536,19 @@ html{
     color: #fff;
     padding: 50px 0;
 }
+#div-map{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
 #map{
     width: 100%;
     background-color: antiquewhite;
+    border-radius: 4px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
 }
 .contacto .contenido-seccion{
     max-width: 1100px;

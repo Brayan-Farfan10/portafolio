@@ -518,6 +518,11 @@ html{
     margin-bottom: 20px;
     transition: 1s;
 }
+.portfolio .galeria .proyecto .overlay a{
+    margin-bottom: 20px;
+    transition: 1s;
+    color: #fff;
+}
 .portfolio .galeria .proyecto .overlay:hover{
     opacity: 1;
 }
@@ -530,6 +535,10 @@ html{
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
+}
+#map{
+    width: 100%;
+    background-color: antiquewhite;
 }
 .contacto .contenido-seccion{
     max-width: 1100px;
